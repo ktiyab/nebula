@@ -1,0 +1,14 @@
+venv*
+.idea
+resources
+app/context.py
+app/secrets.py
+secrets/*.json
+terraform/.terraform
+terraform/.terraform.tfstate.lock.info
+terraform/.terraform.lock.hcl
+terraform/tf.plan
+terraform/terraform*
+tests/services-accounts/*.json
+tests/private.py
+app/version.txt
